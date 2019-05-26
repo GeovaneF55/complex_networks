@@ -126,3 +126,5 @@ pkgs/
 *.csv
 *.png
 *.invalid
+
+!/data/c_elegans_undir_names.txt
